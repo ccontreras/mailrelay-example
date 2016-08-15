@@ -1,0 +1,12 @@
+{
+  "name": "mailrelay",
+  "version": "1.0.0",
+  "description": "Simple client library for Mailrelay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Cesar Contreras <ccdl15c@gmail.com>",
+  "license": "ISC"
+}
